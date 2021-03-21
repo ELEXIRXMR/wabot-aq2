@@ -1,3 +1,10 @@
+//{
+//	"clientID": "hl383lDAyfZbbGy+bRDIrA==",
+//	"serverToken": "1@IUQfDVc5pX4uvTXtU6uJlQQiOsZvAzvXjEVUdWdXGAlutq6lI2Jw70o3qtIPbQXG3FyBHCmny098fQ==",
+//	"clientToken": "gF4K/jty5G6eyLOJ6SMcrEKWCktQVXp4p2aJrP0lOrc=",
+//	"encKey": "NSeQd3DlZSo+VrIrjOgR91oUPTtIIYMHOcv2SPJi7Qk=",
+//	"macKey": "UnJ8BiJ1oMDaozY+CW2xXsBfsNTuJsUF7n6EN5S83Sc="
+//}
 # wabot-aq
 Simple WhatsApp Bot
 
